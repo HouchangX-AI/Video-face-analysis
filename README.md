@@ -10,13 +10,14 @@
 [FaceBoxes](https://github.com/zisianw/FaceBoxes.PyTorch)
 
 ## 人脸追踪
-[Kernelized Correlation Filters](https://github.com/uoip/KCFpy)
+[Kernelized Correlation Filters](https://github.com/uoip/KCFpy)1期为kalman，改进为KCF。
 
 ## 人脸识别
-[Light CNN ](https://github.com/AlfredXiangWu/LightCNN)
+[Light CNN ](https://github.com/AlfredXiangWu/LightCNN)基于训练集上准确率课达到100%，但是在实际视频中，转头幅度过大会出现错误识别。
 
 ## 表情分类
-mobilev3+attention+weight-loss 准确率达到60.6%
+mobilev3+attention+weight-loss 准确率达到60.6%。
+使用上采样、上采样+weight-loss、focal loss等方法效果均达不到60%。
 
 
 
