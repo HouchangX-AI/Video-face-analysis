@@ -1,4 +1,4 @@
-# Video-face-analysis
+# Video-face-analysis-Pytorch
 开课吧&后厂理工学院 百度cv2期：人脸检测+人脸追踪+人脸识别+表情分类。
 
 ## 数据
